@@ -1,14 +1,11 @@
 # 💫 About Me
 👋 Hello! I’m T M Lokesh Kumar, a passionate web developer focused on building intuitive and responsive web applications. I specialize in HTML, CSS, JavaScript, React.js, Node.js, and Tailwind CSS. With a growing interest in full-stack development, I strive to deliver clean and maintainable code.
 
----
-
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/lokesh_xv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh2910)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lokeshmbu2004@gmail.com)
 
----
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -38,24 +35,21 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
----
+\\
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh2910v&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lokesh2910v&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh2910v&theme=dark&hide_border=true&layout=compact)
 
----
+
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=lokesh2910v&theme=radical&no-frame=true&margin-w=4)
 
----
 
 ## ✍️ Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 ## 🔝 Top Contributed Repos
 ![Top Contributions](https://github-contributor-stats.vercel.app/api?username=lokesh2910v&limit=5&theme=dark&combine_all_yearly_contributions=true)
